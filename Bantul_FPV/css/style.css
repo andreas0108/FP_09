@@ -1,0 +1,17 @@
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.asli .display-3 .lead{
+  opacity: 1;
+}
+
+.card {
+  height: 100%;
+}
